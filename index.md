@@ -13,7 +13,7 @@
       </ul>
     <h3>TODO:</h3>
       <ul>
-        <li>Make website using basic html (an about me page)
+        <li>Make website using basic html (an about me page)</li>
         <li>Make basic website about top 10 somethings using basic html + css</li>
         <li>Complete Typescript + react tutorials</li>
         <li>Complete Bootstrap + git tutorials</li>
