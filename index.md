@@ -9,7 +9,7 @@
     <h3>Changelog:</h3>
     <h4>Week 1:</h4>
       <ul>
-        <li><a href="https://github.com/clongb/clongb.github.io/commit/9eb8e6f90e1a2b5b9c017e60982dac6709e7aa20#diff-a48746cae70c44e7e105b594aad338ddd105c93c1cb445a40ba6aab785ba69e5">Added changelog and TODO using an unordered list in HTML.</a></li>
+        <li>Added <a href="https://github.com/clongb/clongb.github.io/commit/9eb8e6f90e1a2b5b9c017e60982dac6709e7aa20#diff-a48746cae70c44e7e105b594aad338ddd105c93c1cb445a40ba6aab785ba69e5">changelog</a> and <a href="https://github.com/clongb/clongb.github.io/commit/7cb830cad553d331b4ab54df1e3cc3675e7bb3cd#diff-a48746cae70c44e7e105b594aad338ddd105c93c1cb445a40ba6aab785ba69e5">TODO</a> using an unordered list in HTML.</li>
       </ul>
     <h3>TODO:</h3>
       <ul>
