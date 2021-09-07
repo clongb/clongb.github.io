@@ -18,6 +18,6 @@
         <li>Complete Typescript + react tutorials</li>
         <li>Complete Bootstrap + git tutorials</li>
       </ul>
-  </body>
+   </body>
 </html>
 
