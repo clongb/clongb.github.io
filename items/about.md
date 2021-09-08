@@ -34,7 +34,7 @@
     <tr>
       <td>Pizza</td>
       <td>S</td>
-      <td>Cheese bread tomato very good, lots of varities</td>
+      <td>Cheese bread tomato very good, lots of varieties</td>
     </tr>
     <tr>
       <td>Burger</td>
