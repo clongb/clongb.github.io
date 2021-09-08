@@ -4,11 +4,11 @@
     <p>My name is Christopher Bao and I am a student at the University of Delaware. I am a sophomore studying Computer Science BA.</p>
     <h3>Things I like:</h3>
       <ul>
-        <li>Video game</li>
-        <li>Funny dog</li>
+        <li><a href="https://clongb.github.io/items/about.html#computer-science">Video game</a></li>
+        <li><a href="https://clongb.github.io/items/about.html#funny-dog">Funny dog</a></li>
         <li>Yummy food (pizza for example)</li>
         <li>Long walks on the beach</li>
-        <li>Coding of course</li>
+        <li><a href="https://clongb.github.io/items/about.html#computer-science">Coding of course</a></li>
       </ul>
     <h3>Relevant Images</h3>
     <h4>The University of Delaware</h4>
