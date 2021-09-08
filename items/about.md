@@ -7,7 +7,7 @@
         <li><a href="https://clongb.github.io/items/about.html#video-game">Video game</a></li>
         <li><a href="https://clongb.github.io/items/about.html#funny-dog">Funny dog</a></li>
         <li><a href="https://clongb.github.io/items/about.html#yummy-food">Yummy food (pizza for example)</a></li>
-        <li>Long walks on the beach</li>
+        <li><a href="https://clongb.github.io/items/about.html#long-walks-on-the-beach-click-to-go-to-rehoboth-beach">Long walks on the beach</a></li>
         <li><a href="https://clongb.github.io/items/about.html#computer-science">Coding of course</a></li>
       </ul>
     <h2>Relevant Media</h2>
