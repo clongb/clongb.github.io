@@ -6,8 +6,8 @@
   </head>
   <body>
     <p>Welcome to my portfolio!</p>
-    <a href="https://github.com/clongb/clongb.github.io/">Source code</a>
-    <a href="https://clongb.github.io/descriptions">Descriptions of each item</a>
+    <p><a href="https://github.com/clongb/clongb.github.io/">Source code</a></p>
+    <p><a href="https://clongb.github.io/descriptions">Descriptions of each item</a></p>
     <br />
     <h3>Changelog:</h3>
     <h4>Week 1:</h4>
