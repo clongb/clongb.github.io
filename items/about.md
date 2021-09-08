@@ -11,19 +11,24 @@
         <li><a href="https://clongb.github.io/items/about.html#computer-science">Coding of course</a></li>
         <li><a href="https://clongb.github.io/items/about.html#music">Music</a></li>
       </ul>
+    <br />
     <h2>Relevant Media</h2>
     <h3>The University of Delaware</h3>
     <img src="https://marvel-b1-cdn.bc0a.com/f00000000164722/www.udel.edu/content/udel/en/academics/colleges/grad/prospective-students/why-ud/_jcr_content/par_udel/columngenerator_788838291/par_1/image.img.jpg/1603818658683.jpg">
     <p>Wow that campus looks so cool (I would know I go there)</p>
+    <br />
     <h3>Computer Science</h3>
     <img src="https://images.ctfassets.net/2htm8llflwdx/1LEJIT9KGRC4nwTJ5vuS6H/1b70f0c0e68e42db55bdd306d44c27f0/Shorelight_Computer_Science.jpg" width=500 height=500>
     <p>What is this young man coding? It looks very complicated.</p>
+    <br />
     <h3>Video game</h3>
     <img src="https://i.ytimg.com/vi/pFnYSEUXdQo/maxresdefault.jpg" width=852 height=480>
     <p>Check out this sick and cool gaming setup! It is mine I own it</p>
+    <br />
     <h3>Funny dog</h3>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/1HygThMLzGs" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
     <p>Funny dog compilation</p>
+    <br />
     <h3>Yummy food</h3>
     <table width='25%' border=1px cellspacing=0>
     <caption>Yummy food tier list</caption>
@@ -58,9 +63,11 @@
       <td>Chicken is Okay, C for Chicken</td>
     </tr>
     </table>
+    <br />
     <h3>Long walks on the beach (Click to go to Rehoboth Beach)</h3>
     <a href="https://www.google.com/maps/@38.7135578,-75.075707,2a,75y,81.41h,90t/data=!3m7!1e1!3m5!1sfpWHC8jrNXD9Iv8BPv-BfA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DfpWHC8jrNXD9Iv8BPv-BfA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D79.04781%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?hl=en"><img src="https://i2.wp.com/thefullpassport.com/wp-content/uploads/2020/07/rsz_img_1338.jpg?resize=1600%2C900&ssl=1" width=852 height=480></a>
     <p>Let's go to the beach beach let's go get a wave</p>
+    <br />
     <h3>Music</h3>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/mGksUa9vZoQ?start=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <p>Let's go to the beach beach let's go get a wave</p>
