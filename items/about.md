@@ -20,4 +20,7 @@
     <h4>Video game</h4>
     <img src="https://i.ytimg.com/vi/pFnYSEUXdQo/maxresdefault.jpg" width=852 height=480>
     <p>Check out this sick and cool gaming setup! It is mine I own it</p>
+    <h4>Funny dog</h4>
+    <iframe src="https://www.youtube.com/watch?v=1HygThMLzGs" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+    <p>Funny dog compilation</p>
   </body> 
