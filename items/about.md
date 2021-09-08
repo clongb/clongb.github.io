@@ -24,7 +24,7 @@
     <iframe width="560" height="315" src="https://www.youtube.com/embed/1HygThMLzGs" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
     <p>Funny dog compilation</p>
     <h4>Yummy food</h4>
-    <table width='50%' border=1px cellspacing=0>
+    <table width='25%' border=1px cellspacing=0>
     <caption>Yummy food tier list</caption>
     <tr> 
       <th>Food</th>
