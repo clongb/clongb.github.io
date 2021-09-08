@@ -10,7 +10,6 @@
         <li>Long walks on the beach</li>
         <li>Coding of course</li>
       </ul>
-    
     <h3>Relevant Images</h3>
     <h4>The University of Delaware</h4>
     <img src="https://marvel-b1-cdn.bc0a.com/f00000000164722/www.udel.edu/content/udel/en/academics/colleges/grad/prospective-students/why-ud/_jcr_content/par_udel/columngenerator_788838291/par_1/image.img.jpg/1603818658683.jpg">
