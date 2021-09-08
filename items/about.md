@@ -55,5 +55,6 @@
       <td>Chicken</td>
       <td>C</td>
       <td>Chicken is Okay, C for Chicken</td>
-    </tr> 
+    </tr>
+    </table>
   </body> 
