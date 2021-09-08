@@ -9,7 +9,7 @@
         <li><a href="https://clongb.github.io/items/about.html#yummy-food">Yummy food (pizza for example)</a></li>
         <li><a href="https://clongb.github.io/items/about.html#long-walks-on-the-beach-click-to-go-to-rehoboth-beach">Long walks on the beach</a></li>
         <li><a href="https://clongb.github.io/items/about.html#computer-science">Coding of course</a></li>
-        <li>Music</li>
+        <li><a href="https://clongb.github.io/items/about.html#music">Music</a></li>
       </ul>
     <h2>Relevant Media</h2>
     <h3>The University of Delaware</h3>
