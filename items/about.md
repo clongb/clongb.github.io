@@ -6,4 +6,7 @@
     <h4>The University of Delaware</h4>
     <img src="https://marvel-b1-cdn.bc0a.com/f00000000164722/www.udel.edu/content/udel/en/academics/colleges/grad/prospective-students/why-ud/_jcr_content/par_udel/columngenerator_788838291/par_1/image.img.jpg/1603818658683.jpg">
     <p>Wow that campus looks so cool (I would know I go there)</p>
+    <h4>Computer Science</h4>
+    <img src="https://images.ctfassets.net/2htm8llflwdx/1LEJIT9KGRC4nwTJ5vuS6H/1b70f0c0e68e42db55bdd306d44c27f0/Shorelight_Computer_Science.jpg">
+    <p>What is this young man coding? It looks very complicated.</p>
   </body> 
