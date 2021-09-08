@@ -23,7 +23,7 @@
     <h3>Funny dog</h3>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/1HygThMLzGs" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
     <p>Funny dog compilation</p>
-    <h4>Yummy food</h4>
+    <h3>Yummy food</h3>
     <table width='25%' border=1px cellspacing=0>
     <caption>Yummy food tier list</caption>
     <tr> 
@@ -57,4 +57,7 @@
       <td>Chicken is Okay, C for Chicken</td>
     </tr>
     </table>
+    <h3>Long walks on the beach (Click to go to Rehoboth Beach)</h3>
+    <img src="https://i2.wp.com/thefullpassport.com/wp-content/uploads/2020/07/rsz_img_1338.jpg?resize=1600%2C900&ssl=1" href="https://www.google.com/maps/@38.7135578,-75.075707,2a,75y,81.41h,90t/data=!3m7!1e1!3m5!1sfpWHC8jrNXD9Iv8BPv-BfA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DfpWHC8jrNXD9Iv8BPv-BfA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D79.04781%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?hl=en" width=852 height=480>
+    <p>Let's go to the beach beach let's go get away</p>
   </body> 
