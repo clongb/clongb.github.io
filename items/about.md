@@ -18,6 +18,6 @@
     <img src="https://images.ctfassets.net/2htm8llflwdx/1LEJIT9KGRC4nwTJ5vuS6H/1b70f0c0e68e42db55bdd306d44c27f0/Shorelight_Computer_Science.jpg" width=500 height=500>
     <p>What is this young man coding? It looks very complicated.</p>
     <h4>Video game</h4>
-    <img src="https://i.ytimg.com/vi/pFnYSEUXdQo/maxresdefault.jpg">
+    <img src="https://i.ytimg.com/vi/pFnYSEUXdQo/maxresdefault.jpg" width=852 height=480>
     <p>Check out this sick and cool gaming setup! It is mine I own it</p>
   </body> 
