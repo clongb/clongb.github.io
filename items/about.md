@@ -1,7 +1,7 @@
 <html>
   <h1>About Me</h1>
   <body>
-    <p>My name is Christopher Bao and I am a student at the University of Delaware. I am a sophomore studying Computer Science BA.</p>
+    <p>My name is Christopher Bao and I am a student at the <a href="https://clongb.github.io/items/about.html#the-university-of-delaware">University of Delaware.</a> I am a sophomore studying <a href="https://clongb.github.io/items/about.html#computer-science">Computer Science BA.</a></p>
     <h3>Things I like:</h3>
       <ul>
         <li><a href="https://clongb.github.io/items/about.html#video-game">Video game</a></li>
