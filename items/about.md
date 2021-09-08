@@ -59,5 +59,5 @@
     </table>
     <h3>Long walks on the beach (Click to go to Rehoboth Beach)</h3>
     <a href="https://www.google.com/maps/@38.7135578,-75.075707,2a,75y,81.41h,90t/data=!3m7!1e1!3m5!1sfpWHC8jrNXD9Iv8BPv-BfA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DfpWHC8jrNXD9Iv8BPv-BfA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D79.04781%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?hl=en"><img src="https://i2.wp.com/thefullpassport.com/wp-content/uploads/2020/07/rsz_img_1338.jpg?resize=1600%2C900&ssl=1" width=852 height=480></a>
-    <p>Let's go to the beach beach let's go get away</p>
+    <p>Let's go to the beach beach let's go get a wave</p>
   </body> 
