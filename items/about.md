@@ -10,7 +10,7 @@
         <li>Long walks on the beach</li>
         <li><a href="https://clongb.github.io/items/about.html#computer-science">Coding of course</a></li>
       </ul>
-    <h3>Relevant Images</h3>
+    <h3>Relevant Media</h3>
     <h4>The University of Delaware</h4>
     <img src="https://marvel-b1-cdn.bc0a.com/f00000000164722/www.udel.edu/content/udel/en/academics/colleges/grad/prospective-students/why-ud/_jcr_content/par_udel/columngenerator_788838291/par_1/image.img.jpg/1603818658683.jpg">
     <p>Wow that campus looks so cool (I would know I go there)</p>
