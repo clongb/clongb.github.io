@@ -2,7 +2,7 @@
   <head>
     <h1>Christopher Bao</h1>
     <h3>clongb@udel.edu</h3>
-    <h4><a href="https://clongb.github.io/items/about.html>About Me</a> <a href="https://clongb.github.io/items/top10.html>Top 10 Funniest Dogs</a></h4>
+    <p><a href="https://clongb.github.io/items/about.html>About Me</a> | <a href="https://clongb.github.io/items/top10.html>Top 10 Funniest Dogs</a></p>
   </head>
   <body>
     <p>Welcome to my portfolio!</p>
