@@ -18,6 +18,7 @@
     <h3>TODO:</h3>
       <ul>
         <li>Make basic website about top 10 somethings using basic html + css</li>
+        <li>Edit About Me and homepage CSS</li>
         <li>Complete Typescript + react tutorials</li>
         <li>Complete Bootstrap + git tutorials</li>
       </ul>
