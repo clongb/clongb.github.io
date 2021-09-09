@@ -17,13 +17,14 @@
         <li>Created an <a href="https://clongb.github.io/items/about.html">About Me</a> page heavily based on the concepts of basic HTML taught by webfundamentals tutorials, as well as more semi-advanced features like embeds. (<a href="https://github.com/clongb/clongb.github.io/blob/main/items/about.md">Source code</a>) (<a href="https://clongb.github.io/descriptions#about-me">Description</a>)</li>
         <li>Started using git for version control and getting used to basic commands</li>
         <li>Added CSS elements to About Me</li>
+        <li>Finished W3Schools Bootstrap tutorial</li>
+        <li>Created a website based on Bootstrap on the top 10 funniest dogs ever. Utilizes unique bootstrap elements like blockquotes in tandem with basic HTML and CSS</li>
       </ul>
     <h3>TODO:</h3>
       <ul>
-        <li>Make basic website about top 10 somethings using basic html + css</li>
-        <li>Edit About Me and homepage CSS</li>
+        <li>Edit homepage CSS (?)</li>
         <li>Complete Typescript + react tutorials</li>
-        <li>Complete Bootstrap tutorials</li>
+        <li>Hyperlink necessary tutorials and descriptions</li>
         <li>Become more familiar with more advanced git commands/GUIs</li>
       </ul>
    </body>
