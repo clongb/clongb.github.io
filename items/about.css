@@ -3,7 +3,7 @@ body {
     color:white;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
-    background: white url(https://wallpaperaccess.com/full/3435555.jpg) repeat-y center;
+    background: white url(https://images.hdqwalls.com/download/train-mountains-illustration-minimalistic-9l-3840x2160.jpg) repeat-y center;
 }
 
 .alignleft {
@@ -25,7 +25,7 @@ header {
 }
 
 a {
-    color:aqua
+    color: aqua
 }
 
 table, th, td {
@@ -39,24 +39,24 @@ table, th, td {
 
 h1 {
     font-size: 2em;
-    color:red;
-    background-color: rgb(49, 49, 49);
+    color:rgb(255, 255, 255);
+    background-color: rgb(95, 9, 165);
     margin: 20px;
     padding: 40px;
 }
 
 h2 {
     font-size: 1.5em;
-    color:red;
-    background-color: rgb(49, 49, 49);
+    color:rgb(255, 255, 255);
+    background-color: rgb(95, 9, 165);
     margin: 40px;
     padding: 40px;
 }
 
 h3 {
     font-size: 1em;
-    color:red;
-    background-color: rgb(49, 49, 49);
+    color:rgb(255, 255, 255);
+    background-color: rgb(95, 9, 165);
     margin: 60px;
     padding: 20px;
 }
