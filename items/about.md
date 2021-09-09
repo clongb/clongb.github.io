@@ -1,4 +1,6 @@
 <html>
+  <title>About Me</title>
+  <link rel="stylesheet" href="about.css">
   <h1>About Me</h1>
   <body>
     <p>My name is Christopher Bao and I am a student at the <a href="https://clongb.github.io/items/about.html#the-university-of-delaware">University of Delaware.</a> I am a sophomore studying <a href="https://clongb.github.io/items/about.html#computer-science">Computer Science BA.</a></p>
