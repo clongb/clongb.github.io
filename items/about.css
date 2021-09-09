@@ -7,11 +7,13 @@ body {
 }
 
 .alignleft {
-    float: inline-start;
+    text-align: left;
+    float: left;
 }
 
 .alignright {
-	float: inline-end;
+    text-align: right;
+	float: right;
 }
 
 header {
