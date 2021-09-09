@@ -1,5 +1,4 @@
 <html>
-  <title>About Me</title>
   <link rel="stylesheet" href="about.css">
   <h1>About Me</h1>
   <body>
