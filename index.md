@@ -25,8 +25,8 @@
       <ul>
         <li>Look at Advanced CSS tutorials from <a href="https://htmldog.com/guides/css/">HTML Dog</a></li>
         <li>Edit homepage CSS (?)</li>
-        <li>Complete Typescript + react tutorials</li>
-        <li>Hyperlink necessary tutorials and descriptions</li>
+        <li>Complete <a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html">Typescript</a> + <a href="https://reactjs.org/tutorial/tutorial.html">react</a> tutorials (+hooks)</li>
+        <li>Complete Javascript tutorials</li>
         <li>Become more familiar with more advanced git commands/GUIs</li>
         <li>Add project board</li>
       </ul>
