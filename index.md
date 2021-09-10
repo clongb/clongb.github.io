@@ -16,18 +16,19 @@
         <li>Finished basic HTML tutorials from <a href="https://runestone.academy/runestone/books/published/webfundamentals/HTML/toctree.html">web fundamentals.</a></li>
         <li>Created an <a href="https://clongb.github.io/items/about.html">About Me</a> page heavily based on the concepts of basic HTML taught by webfundamentals tutorials, as well as more semi-advanced features like embeds. (<a href="https://github.com/clongb/clongb.github.io/blob/main/items/about.md">Source code</a>) (<a href="https://clongb.github.io/descriptions#about-me">Description</a>)</li>
         <li>Started using git for version control and getting used to basic commands</li>
-        <li>Completed HTML Dog's Basic and Intermediate CSS tutorials</li>
-        <li>Added CSS elements to About Me</li>
-        <li>Finished W3Schools Bootstrap tutorial</li>
-        <li>Created a website based on Bootstrap on the top 10 funniest dogs ever. Utilizes unique bootstrap elements like blockquotes in tandem with basic HTML and CSS</li>
+        <li>Completed <a href="https://htmldog.com/guides/css/">HTML Dog's</a> Basic and Intermediate CSS tutorials</li>
+        <li>Added CSS elements to <a href="https://clongb.github.io/items/about.html">About Me</a></li>
+        <li>Finished <a href="https://www.w3schools.com/bootstrap5/index.php">W3Schools'</a> Bootstrap tutorial</li>
+        <li>Created a website based on Bootstrap on the <a href="https://clongb.github.io/items/top10.html">top 10 funniest dogs ever</a>. Utilizes unique bootstrap elements like blockquotes in tandem with basic HTML and CSS</li>
       </ul>
     <h3>TODO:</h3>
       <ul>
-        <li>Look at Advanced CSS tutorials from HTML Dog</li>
+        <li>Look at Advanced CSS tutorials from <a href="https://htmldog.com/guides/css/">HTML Dog</a></li>
         <li>Edit homepage CSS (?)</li>
         <li>Complete Typescript + react tutorials</li>
         <li>Hyperlink necessary tutorials and descriptions</li>
         <li>Become more familiar with more advanced git commands/GUIs</li>
+        <li>Add project board</li>
       </ul>
    </body>
 </html>
