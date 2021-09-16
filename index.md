@@ -2,7 +2,7 @@
   <head>
     <h1>Christopher Bao</h1>
     <h3>clongb@udel.edu</h3>
-    <h4><a href="https://clongb.github.io/items/about.html">About Me</a> | <a href="https://clongb.github.io/items/top10.html">Top 10 Funniest Dogs</a> | <a href="https://clongb.github.io/react-app/">React app</a></h4>
+    <h4><a href="https://clongb.github.io/items/about.html">About Me</a> | <a href="https://clongb.github.io/items/top10.html">Top 10 Funniest Dogs</a> | <a href="https://clongb.github.io/react-app/">Tic tac toe</a></h4>
   </head>
   <body>
     <p>Welcome to my portfolio!</p>
@@ -39,6 +39,7 @@
       </ul>
     <h4>Week 2:</h4>
       <ul>
+        <li><a href="https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI">Look at this more in-depth typescript tutorial series</a></li>
         <li>Make a CPS counter site (or some better idea), incorporating typescript/react</li>
         <li>Complete tutorials on Hooks</li>
         <li>Add react to homepage and maybe top 10 dogs</li>
