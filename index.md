@@ -24,7 +24,7 @@
     <h4>Week 2:</h4>
       <ul>
         <li>Cloned website repository on VSCode, started commiting, adding, pushing, and pulling <em>everything</em> through there. (<a href="https://github.com/clongb/clongb.github.io/commits/main">All commits, non-verified are from git</a>)</li>
-        <li>Added a <a href="https://clongb.github.io/react-app/">react based website</a></li> 
+        <li>Added a <a href="https://clongb.github.io/react-app/">react based website (<a href="https://github.com/clongb/react-app/tree/master">Source code</a>)</a></li> 
       </ul>
     <h3>TODO:</h3>
     <h4>Week 1:</h4>
@@ -42,6 +42,7 @@
         <li>Complete tutorials on Hooks</li>
         <li>Add react to homepage and maybe top 10 dogs</li>
         <li>Add project board</li>
+      </ul>
    </body>
 </html>
 
