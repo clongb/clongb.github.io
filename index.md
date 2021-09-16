@@ -16,7 +16,7 @@
         <li>Finished basic HTML tutorials from <a href="https://runestone.academy/runestone/books/published/webfundamentals/HTML/toctree.html">web fundamentals.</a></li>
         <li>Created an <a href="https://clongb.github.io/items/about.html">About Me</a> page heavily based on the concepts of basic HTML taught by webfundamentals tutorials, as well as more semi-advanced features like embeds. (<a href="https://github.com/clongb/clongb.github.io/blob/main/items/about.md">Source code</a>) (<a href="https://clongb.github.io/descriptions#about-me">Description</a>)</li>
         <li>Started using git for version control and getting used to basic commands</li>
-        <li>Cloned website repository on VSCode, started commiting, adding, pushing, and pulling <em>everything</em> through there.</li>
+        <li>Cloned website repository on VSCode, started commiting, adding, pushing, and pulling <em>everything</em> through there. (<a href="https://github.com/clongb/clongb.github.io/commits/main">All commits, non-verified are from git</a>)</li>
         <li>Completed <a href="https://htmldog.com/guides/css/">HTML Dog's</a> Basic and Intermediate CSS tutorials</li>
         <li>Added CSS elements to <a href="https://clongb.github.io/items/about.html">About Me</a></li>
         <li>Finished <a href="https://www.w3schools.com/bootstrap5/index.php">W3Schools'</a> Bootstrap tutorial</li>
