@@ -2,7 +2,7 @@
   <head>
     <h1>Christopher Bao</h1>
     <h3>clongb@udel.edu</h3>
-    <h4><a href="https://clongb.github.io/items/about.html">About Me</a> | <a href="https://clongb.github.io/items/top10.html">Top 10 Funniest Dogs</a></h4>
+    <h4><a href="https://clongb.github.io/items/about.html">About Me</a> | <a href="https://clongb.github.io/items/top10.html">Top 10 Funniest Dogs</a> | <a href="https://clongb.github.io/react-app/">React app</a></h4>
   </head>
   <body>
     <p>Welcome to my portfolio!</p>
@@ -16,21 +16,32 @@
         <li>Finished basic HTML tutorials from <a href="https://runestone.academy/runestone/books/published/webfundamentals/HTML/toctree.html">web fundamentals.</a></li>
         <li>Created an <a href="https://clongb.github.io/items/about.html">About Me</a> page heavily based on the concepts of basic HTML taught by webfundamentals tutorials, as well as more semi-advanced features like embeds. (<a href="https://github.com/clongb/clongb.github.io/blob/main/items/about.md">Source code</a>) (<a href="https://clongb.github.io/descriptions#about-me">Description</a>)</li>
         <li>Started using git for version control and getting used to basic commands</li>
-        <li>Cloned website repository on VSCode, started commiting, adding, pushing, and pulling <em>everything</em> through there. (<a href="https://github.com/clongb/clongb.github.io/commits/main">All commits, non-verified are from git</a>)</li>
         <li>Completed <a href="https://htmldog.com/guides/css/">HTML Dog's</a> Basic and Intermediate CSS tutorials</li>
         <li>Added CSS elements to <a href="https://clongb.github.io/items/about.html">About Me</a></li>
         <li>Finished <a href="https://www.w3schools.com/bootstrap5/index.php">W3Schools'</a> Bootstrap tutorial</li>
         <li>Created a website based on Bootstrap on the <a href="https://clongb.github.io/items/top10.html">top 10 funniest dogs ever</a>. Utilizes unique bootstrap elements like blockquotes in tandem with basic HTML and CSS</li>
       </ul>
+    <h4>Week 2:</h4>
+      <ul>
+        <li>Cloned website repository on VSCode, started commiting, adding, pushing, and pulling <em>everything</em> through there. (<a href="https://github.com/clongb/clongb.github.io/commits/main">All commits, non-verified are from git</a>)</li>
+        <li>Added a <a href="https://clongb.github.io/react-app/">react based website</a></li> 
+      </ul>
     <h3>TODO:</h3>
+    <h4>Week 1:</h4>
       <ul>
         <li>Look at Advanced CSS tutorials from <a href="https://htmldog.com/guides/css/">HTML Dog</a></li>
-        <li>Edit homepage CSS (?)</li>
+        <li>Edit homepage CSS/Incorporate react</li>
         <li>Complete <a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html">Typescript</a> + <a href="https://reactjs.org/tutorial/tutorial.html">react</a> tutorials (+hooks)</li>
         <li>Complete Javascript tutorials</li>
         <li>Become more familiar with more advanced git commands/GUIs</li>
         <li>Add project board</li>
       </ul>
+    <h4>Week 2:</h4>
+      <ul>
+        <li>Turn react website into a CPS counter (or some better idea), incorporating typescript as well</li>
+        <li>Complete tutorials on Hooks</li>
+        <li>Add react to homepage and maybe top 10 dogs</li>
+        <li>Add project board</li>
    </body>
 </html>
 
