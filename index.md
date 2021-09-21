@@ -45,6 +45,14 @@
         <li>Add react to homepage and maybe top 10 dogs</li>
         <li>Add project board</li>
       </ul>
+    <h4>Week 3:</h4>
+      <ul>
+        <li>Watch Dr. Bart's TA Trainer walkthrough and follow along with what he does, making additions and improvements to the site</li>
+        <li>Finish typescript tutorial series from Week 2</li>
+        <li>Create the CPS (Clicks Per Second) counter site, making use of typescript buttons for the thing you click fast with possibly a local leaderboard and other added features including different timers for the specific time interval the user wants to click in.</li>
+        <li>Turn the counter into something like an aim trainer in the future using similar react principles to tic tac toe so that the game is more challenging and you have to click in more than one spot.</li>
+        <li>Add project board (one day)</li>
+      </ul>
    </body>
 </html>
 
