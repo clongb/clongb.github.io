@@ -2,7 +2,7 @@
   <head>
     <h1>Christopher Bao</h1>
     <h3>clongb@udel.edu</h3>
-    <h4><a href="https://clongb.github.io/items/about.html">About Me</a> | <a href="https://clongb.github.io/items/top10.html">Top 10 Funniest Dogs</a> | <a href="https://clongb.github.io/react-app/">Tic tac toe</a></h4>
+    <h4><a href="https://clongb.github.io/items/about.html">About Me</a> | <a href="https://clongb.github.io/items/top10.html">Top 10 Funniest Dogs</a> | <a href="https://clongb.github.io/react-app/">Tic tac toe</a> | <a href="https://clongb.github.io/items/greeter.html">Greeter</a> | <a href="https://clongb.github.io/CPS-Aim-Trainer/">CPS counter/aim trainer</a></h4> 
   </head>
   <body>
     <p>Welcome to my portfolio!</p>
@@ -29,7 +29,7 @@
       </ul>
     <h4>Week 3:</h4>
       <ul>
-        <li>Made a greeter based on <a href="https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html">this typescript tutorial</a>. Added functionality where you can enter your own name instead of the default example, with help from <a href="https://www.youtube.com/watch?v=hcuKd-Q_tP8">this video.</a></li>
+        <li>Made a <a href="https://clongb.github.io/items/greeter.html">greeter</a> based on <a href="https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html">this typescript tutorial</a>. Added functionality where you can enter your own name instead of the default example, with help from <a href="https://www.youtube.com/watch?v=hcuKd-Q_tP8">this video.</a></li>
       </ul>
     <h3>TODO:</h3>
     <h4>Week 1:</h4>
@@ -55,6 +55,7 @@
         <li>Finish typescript tutorial series from Week 2</li>
         <li>Create the CPS (Clicks Per Second) counter site, making use of typescript buttons for the thing you click fast with possibly a local leaderboard and other added features including different timers for the specific time interval the user wants to click in.</li>
         <li>Turn the counter into something like an aim trainer in the future using similar react principles to tic tac toe so that the game is more challenging and you have to click in more than one spot.</li>
+        <li>Add more advanced/clean CSS to Greeter</li>
         <li>Add project board (one day)</li>
       </ul>
    </body>
