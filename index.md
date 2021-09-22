@@ -27,6 +27,10 @@
         <li>Added a <a href="https://clongb.github.io/react-app/">react based website</a> through <a href="https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f">this tutorial</a> (<a href="https://github.com/clongb/react-app/tree/master">Source code</a>)</li> 
         <li>Finished <a href="https://reactjs.org/tutorial/tutorial.html">reactjs</a> tutorial on react, tic tac toe game based on this tutorial <a href="https://clongb.github.io/react-app/">here</a></li>
       </ul>
+    <h4>Week 3:</h4>
+      <ul>
+        <li>Made a greeter based on <a href="https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html">this typescript tutorial</a>. Added functionality where you can enter your own name instead of the default example, with help from <a href="https://www.youtube.com/watch?v=hcuKd-Q_tP8">this video.</a></li>
+      </ul>
     <h3>TODO:</h3>
     <h4>Week 1:</h4>
       <ul>

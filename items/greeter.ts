@@ -25,8 +25,11 @@ function eventHandler(){
     let user = new Student(first.value, middle.value, last.value);
     div.textContent = greeter(user);
 }
-
+const form = document.querySelector(".new-item-form") as HTMLFormElement;
 
 let div = document.getElementById("greeter");
 let button = document.getElementById("thebutton");
 button.addEventListener("click", eventHandler);
+form.addEventListener("submit", (e:Event) => {
+    e.preventDefault()
+})

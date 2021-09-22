@@ -17,6 +17,10 @@ function eventHandler() {
     var user = new Student(first.value, middle.value, last.value);
     div.textContent = greeter(user);
 }
+var form = document.querySelector(".new-item-form");
 var div = document.getElementById("greeter");
 var button = document.getElementById("thebutton");
 button.addEventListener("click", eventHandler);
+form.addEventListener("submit", function (e) {
+    e.preventDefault();
+});
