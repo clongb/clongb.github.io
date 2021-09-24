@@ -30,6 +30,7 @@
     <h4>Week 3:</h4>
       <ul>
         <li>Made a <a href="https://clongb.github.io/items/greeter.html">greeter</a> based on <a href="https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html">this typescript tutorial</a>. Added functionality where you can enter your own name instead of the default example, with help from <a href="https://www.youtube.com/watch?v=hcuKd-Q_tP8">this video.</a></li>
+        <li>Added the <a href="https://clongb.github.io/CPS-Aim-Trainer/">CPS counter website</a>, initially based on <a href="https://reactjs.org/docs/hooks-overview.html">this hooks tutorial</a>. Currently WIP while slowly adding timer functionality based on <a href="https://dev.to/abdulbasit313/how-to-develop-a-stopwatch-in-react-js-with-custom-hook-561b">this tutorial.</a> (<a href="https://github.com/clongb/CPS-Aim-Trainer">Source code</a>)</li>
       </ul>
     <h3>TODO:</h3>
     <h4>Week 1:</h4>
@@ -52,7 +53,7 @@
     <h4>Week 3:</h4>
       <ul>
         <li>Watch Dr. Bart's TA Trainer walkthrough and follow along with what he does, making additions and improvements to the site</li>
-        <li>Finish typescript tutorial series from Week 2</li>
+        <li>Finish <a href="https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI">typescript tutorial series</a> from Week 2</li>
         <li>Create the CPS (Clicks Per Second) counter site, making use of typescript buttons for the thing you click fast with possibly a local leaderboard and other added features including different timers for the specific time interval the user wants to click in.</li>
         <li>Turn the counter into something like an aim trainer in the future using similar react principles to tic tac toe so that the game is more challenging and you have to click in more than one spot.</li>
         <li>Add more advanced/clean CSS to Greeter</li>
