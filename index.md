@@ -32,6 +32,10 @@
         <li>Made a <a href="https://clongb.github.io/items/greeter.html">greeter</a> based on <a href="https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html">this typescript tutorial</a>. Added functionality where you can enter your own name instead of the default example, with help from <a href="https://www.youtube.com/watch?v=hcuKd-Q_tP8">this video.</a></li>
         <li>Added the <a href="https://clongb.github.io/CPS-Aim-Trainer/">CPS counter website</a>, initially based on <a href="https://reactjs.org/docs/hooks-overview.html">this hooks tutorial</a>. Currently WIP while slowly adding timer functionality based on <a href="https://dev.to/abdulbasit313/how-to-develop-a-stopwatch-in-react-js-with-custom-hook-561b">this tutorial.</a> (<a href="https://github.com/clongb/CPS-Aim-Trainer">Source code</a>)</li>
       </ul>
+    <h4>Week 4:</h4>
+      <ul>
+        <li>Finished the CPS counter with bootstrap implementation of buttons, a table as a local leaderboard, and a modal that pops up when the timer is finished. Leaderboard automatically sorts the best runs, shows the CPS in the modal where you can enter your name and on the main page, timer starts through a button press and stops at 0, and all of this happens through each of their own components based heavily on <a href="https://www.youtube.com/watch?v=q8eYF6cUi5c">Dr. Bart's TA trainer.</a></li>
+      </ul>
     <h3>TODO:</h3>
     <h4>Week 1:</h4>
       <ul>
